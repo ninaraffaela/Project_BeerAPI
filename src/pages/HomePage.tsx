@@ -5,20 +5,23 @@ import RandomBeerImage from "../assets/img/proriat-hospitality-flENqflm6xU-unspl
 
 function HomePage() {
   return (
-    <div>
-      <Link className="mb-2" to="/beers">
-        <div>
+    <div className="m-4 flex flex-col justify-center items-center">
+      <Link to="/beers">
+        <div className="w-87">
           <img src={AllBeersImage} alt="" />
-          <p className="bg-yellow-400 text-stone-50 text-4xl mb-3">All Beers</p>
+          <p className="bg-yellow-400 p-2 text-stone-50 text-4xl w-full">All Beers</p>
         </div>
+        <p className="w-87 mb-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, sunt.</p>
       </Link>
 
       <Link to="/beers/random">
-        <div>
+        <div className="w-87">
           <img src={RandomBeerImage} alt="" />
-          <p className="bg-yellow-400 text-stone-50 text-4xl mb-3">Random Beer</p>
+          <p className="bg-yellow-400 p-2 text-stone-50 text-4xl w-full">Random Beer</p>
         </div>
+        <p className="w-87 mb-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, sunt.</p>
       </Link>
+
     </div>
   );
 }

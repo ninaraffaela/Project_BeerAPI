@@ -6,10 +6,34 @@
 
 - make it look like this:
 ![Figma Overview Project BeerAPI](Figma_Overview_BeerAPI.png)
+
+
 ______________________________________________
-## 👾🍀KICKOFF
+## How it went
+
+### 👾🍀KICKOFF
 ![Xmind Overview Kickoff](Xmind_Kickoff.png)
 
+### Final
+![Xmind Final](Xmind_Final.png)
+
+### Project Deployed
+![FinalPage](FinalPage.png)
+
+💁🏽‍♀️ [Ninas Beer API](https://ninas-beer-api.vercel.app/beers)
+
+### Tech Stack
+insert logos
+vite
+react
+js
+ts
+github
+vercel
+xmind
+gimp
+
+_______________________________________________
 
 
 ______________________________________________

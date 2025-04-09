@@ -9,6 +9,7 @@ function RootLayout() {
           <Outlet />
         </main>
       </div>
+      
       <nav className="flex justify-center fixed bottom-0 left-0 right-0 p-2 bg-yellow-400">
         <NavLink to="/">
           <div className="bg-stone-50 flex justify-center rounded-[150px] w-3xs">

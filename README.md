@@ -1,3 +1,19 @@
+# Welcome to Nina´s Beer API Project
+
+### Instruction:
+- create a Website with the Beer API :
+[Beer API Herokuapp](https://ih-beers-api2.herokuapp.com/beers)
+
+- make it look like this:
+![Figma Overview Project BeerAPI](Figma_Overview_BeerAPI.png)
+______________________________________________
+## 👾🍀KICKOFF
+![Xmind Overview Kickoff](Xmind_Kickoff.png)
+
+
+
+______________________________________________
+# Standard Initial Vite Reacte Readme Filling: 💁🏽‍♀️
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.

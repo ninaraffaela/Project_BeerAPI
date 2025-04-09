@@ -1,7 +1,6 @@
 import { Link } from "react-router";
 import AllBeersImage from "../assets/img/christin-hume-08tX2fsuSLg-unsplash.jpg"
 import RandomBeerImage from "../assets/img/proriat-hospitality-flENqflm6xU-unsplash.png"
-import Beers from "./Beers";
 
 
 function HomePage() {
